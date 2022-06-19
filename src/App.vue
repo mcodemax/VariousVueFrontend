@@ -1,4 +1,5 @@
 <template>
+  <h1>Welcome to the VariousVue Listing App!</h1>
   <APIConnector />
 </template>
 
@@ -22,8 +23,8 @@ export default {
   box-sizing: border-box;
   color: #17222c;
   background-color: rgb(193, 193, 158);
-  width: 100vw;
-  min-height: 100vh;
+  width: 100%;
+  height: 100%;
   padding: 0;
   margin: 0;
 }
