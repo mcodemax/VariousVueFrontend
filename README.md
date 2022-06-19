@@ -17,7 +17,7 @@ npm install
 ```
 npm run serve
 ```
-Once the server is running, you can access the start page (index.html) by opening your browser to [http://localhost:3001/](http://localhost:3001).
+Once the server is running, you can access the start page (index.html) by opening your browser to [http://localhost:8080/](http://localhost:8080/).
 
 ###
 Limitations: Pagination and Lazy Loading not implemented.
