@@ -4,6 +4,7 @@ Here's an image of the App:
 
 ![Pic](https://raw.githubusercontent.com/mcodemax/VariousVueFrontend/master/apppic.PNG)
 
+
 ## Project setup
 Clone this repo locally on your machine then:
 
